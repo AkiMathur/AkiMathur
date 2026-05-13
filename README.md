@@ -1,6 +1,9 @@
-# Hi there, I'm Akshit Mathur 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akshit</h1>
+<h3 align="center">🧠 Backend Developer · 🤖 AI Developer · 🚀 Computer Vision</h3>
 
-![Akshit's Banner](https://raw.githubusercontent.com/AkiMathur/AkiMathur/main/banner.png)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&width=600&lines=Backend+%26+AI+Systems+Developer;Building+AI+Products;FastAPI+%7C+Flask+%7C+DJango;GCP+%7C+Docker+%7C+Azure" />
+</p>
 
 ### 🚀 AI & Full-Stack Developer | Backend Enthusiast
 
